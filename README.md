@@ -16,6 +16,7 @@ the project was created for educational purposes to study react and django-rest-
  1. React
  2. React Router Dom
  3. Axios
+ 4. Bootstrap
  
  ##  Start
 1. download  and install python [Here](https://www.python.org/)
